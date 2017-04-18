@@ -14,3 +14,4 @@ Projects using JAITools include:
 * `GeoServer <http://geoserver.org>`_ geospatial data server
 * `uDig <http://udig.refractions.net/>`_ desktop GIS application
 * `JGrassTools <http://moovida.github.io/jgrasstools/>`_ geospatial toolbox
+
